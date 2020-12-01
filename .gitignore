@@ -1,0 +1,4 @@
+*.db
+*.dbf
+*.sqlite
+*.csv

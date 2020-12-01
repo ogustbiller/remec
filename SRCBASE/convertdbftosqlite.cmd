@@ -1,0 +1,1 @@
+python -m sqliteondbf -e "$convert 'E:\_JOBS\2020\20201126_REMEK_IGS_202010\SRCBASE\' remek_igs_2010.db 'cp866'"
